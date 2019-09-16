@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": {
+        "name": "Julio Alcantara",
+        "avatar": "https://i.pravatar.cc/64?img=12"
+      },
+      "date": "04 Jun 2019",
+      "content": "Pessoal, alguém sabe se a Rocketseat está contratando?",
+      "comments": [
+        {
+          "id": 1,
+          "author": {
+            "name": "Diego Fernandes",
+            "avatar": "https://avatars0.githubusercontent.com/u/2254731?s=460&v=4"
+          },
+          "content": "Sim, sempre estão contratando, então dedique-se aos estudos."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "author": {
+        "name": "Gabriel Lisboa",
+        "avatar": "https://i.pravatar.cc/64?img=13"
+      },
+      "date": "04 Jun 2019",
+      "content": "Estão Gostando do BootCamp?",
+      "comments": [
+        {
+          "id": 1,
+          "author": {
+            "name": "Clara Lisboa",
+            "avatar": "https://i.pravatar.cc/64?img=16"
+          },
+          "content": "Esta sendo muito bom!"
+        },
+        {
+          "id": 2,
+          "author": {
+            "name": "Cézar Toledo",
+            "avatar": "https://i.pravatar.cc/64?img=15"
+          },
+          "content": "Que massa! Estou pensando em me inscrever..."
+        }
+      ]
+    }
+  ]
+}
