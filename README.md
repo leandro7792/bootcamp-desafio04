@@ -1,4 +1,4 @@
 # BootCamp go stack 8.0 -  Desafio 04
 
-Aplicação do zero utilizando Webpack, Babel, Webpack Dev Server e ReactJS.
-Esta aplicação possui interface semelhante com a do Facebook utilizando React.
+Aplicação utilizando ReactJS e tendo suas configurções de Webpack, Babel e Webpack Dev Server feitas manualmente.
+Esta aplicação possui interface estatica e semelhante com a do Facebook.
